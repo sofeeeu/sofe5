@@ -8,27 +8,27 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هنا ضع اسم التلجرام الخاص بك",
+      "description": "sofe",
       "value": ""
     },
     "APP_ID": {
-      "description": "هنا ضع الايبي ايدي الخاص بك يتكون من ارقام", 
+      "description": "1520475", 
       "value": ""
     },
     "API_HASH": {
-      "description": "هنا ضع الايبي هاش الخاص بك يتكون من احرف و ارقام",
+      "description": "a6a5ca6d4e2f0652d11004531ce7c9f2",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": " ضع كود تيرمكس",
+      "description": "1ApWapzMBu6_WojiS6I5S-Q_YYHte3WzTQdhsMq2A_oDZ-8ARYm-J8W849VZI56zZPvQ-YKQEMbkGKmeutfbDlTpCIH0HUjWlSWIhKMklZAiqTJ0BG-CwyYRn4skuLOJuRD9zJnPTrn4gL7cJ_GDgtNit29tuCF51TkokO5cmd0dDydzlbh0ExcrNEj8ztv_eVlml49jlHV-O1c15pBi5uYlrBqxSsKaqVqfqUshJvoOsQc_VunFdUKIgATRd_Ui-jhoXPOZZ-XmreT1knl3kLlbVY1oY_6s5TfiG0jslzCvBvTAgvaNGGT_o1ZXNgEtHQVH8F-qwD5rVK7GGDyOAkeUS2w6m028=",
       "value": ""
     },
     "TG_BOT_USERNAME": {
-      "description": " ضع معرف بوتك بدون @",
+      "description": "beiwwwwwbot",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "ضع توكن بوتك",
+      "description": "5461388748:AAEXsW6G2AO-yt_pF6uq6NRcKokZWV02emc",
       "value": ""
     },
     "COMMAND_HAND_LER": {
